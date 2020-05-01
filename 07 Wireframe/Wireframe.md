@@ -23,3 +23,9 @@ As ferramentas que você vai usar vão depender de preferência pessoal e dos re
 Caneta (ou lápis) e papel são as ferramentas mais básicas que você pode usar para criar um wireframe. Também é útil usar papel quadriculado para criar elementos em proporção.
 Você pode querer usar um lápis para o seu esboço inicial, para que você possa apagar as coisas sem ter que começar de novo. Então, a medida que for finalizando os elementos, pode passar caneta por cima para evitar apagar o que não precisa mais ser apagado.
 Você também pode considerar usar canetas coloridas (ou lápis coloridos) para diferenciar elementos e dar mais sentido ao wireframe. Por exemplo, uma cor para um grupo de elementos pode ser útil, pois ajuda a identificar instantaneamente outros itens.
+
+# Referência Wireframe
+
+Algumas referências do conteúdo foi feito a partir de um post feito pelo blog Desenvolvimento Para Web.
+
+site: desenvolvimentoparaweb.com
