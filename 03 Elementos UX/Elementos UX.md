@@ -8,14 +8,11 @@ O modelo proposto por Garrett aborda todos os elementos que contribuem para a ex
 
 Segue abaixo o modelo de Garrett:
 
-
-![alt text][logo]
-
-[logo]: https://cdn.garyfox.co/wp-content/uploads/2017/07/original-elements-of-ux-design-explained.png
+![Surface - Skeleton - Structure - Scope - Strategy](../.github/Elementos_UX.png)
 
 Strategic Plane (Plano estratégico): é a base de todo o processo, nele vemos a atenção para as estratégias de negócios aonde pesquisas são realizadas e metas são traçadas.
 
- A dica é você conciliar seu objetivos de negócios com as soluções do usuário. 
+A dica é você conciliar seu objetivos de negócios com as soluções do usuário. 
 
 Scope Plane (Plano Escopo): nesse estágio é aonde as ideias do plano anterior são reunidas e mapeadas, com objetivo de levantar informações relevantes.
 

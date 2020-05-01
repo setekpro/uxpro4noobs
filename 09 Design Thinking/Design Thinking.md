@@ -8,7 +8,7 @@ Diferente dos métodos anteriores Design Thinking é uma abordagem e não uma me
 
 O processo consiste em tentar mapear e mesclar a experiência cultural, a visão de mundo e os processos inseridos na vida dos indivíduos, no intuito de obter uma visão mais completa na solução de problemas e, dessa forma, melhor identificar as barreiras e gerar alternativas viáveis para transpô-las.
 
- Não parte de premissas matemáticas, parte do levantamento das reais necessidades de seu consumidor; trata-se de uma abordagem preponderantemente “humana” e que pode ser usada em qualquer área de negócio.
+Não parte de premissas matemáticas, parte do levantamento das reais necessidades de seu consumidor; trata-se de uma abordagem preponderantemente “humana” e que pode ser usada em qualquer área de negócio.
 
 A razão de sua existência é a satisfação do cliente (interno ou externo), dádiva que só pode ser alcançada quando conhecemos em profundidade suas necessidades, desejos e percepções de mundo. As etapas do design thinking podem, em geral, ser resumidas pelos seguintes passos:
 
@@ -24,7 +24,7 @@ Consequência direta do ponto anterior, aqui, pesquisas qualitativas e trabalho 
 
 O design thinking começa a tomar corpo nessa etapa. Aqui, iremos desenvolver o produto ou serviço partindo, não de pressuposições ou análises estatísticas frias (algo comum no mercado), mas a partir das necessidades e percepção de valor do cliente. Nesta etapa, poderemos lançar mão do Processo Heurístico para descobrir o diagnóstico e o Processo Criativo para gerar as possibilidades de produtos.
 
- # Testar as ideias / protótipos
+# Testar as ideias / protótipos
 
 Um MVP – Minimum Viable Product é uma bela dica do que se pode fazer nesse item. Para quem não sabe, MVP (muito usado em startups) é a versão mais simples de um produto, que pode ser lançada em período de testes, para verificar, sem grandes gastos, se sua ideia realmente atinge as necessidades do seu consumidor final.
 

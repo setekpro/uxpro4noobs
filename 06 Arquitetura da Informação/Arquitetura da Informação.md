@@ -50,3 +50,9 @@ Segundo Wurman, a informação pode ser organizada apenas de 5 maneiras possíve
 # Por que Arquitetura da Informação é importante?
 
 Quando projetamos a arquitetura de um website, os princípios de Arquitetura da Informação aumentam a chance de entendermos, como usuários, onde estamos e onde a informação que queremos está (em relação à nossa posição). A arquitetura da informação ajuda na criação de hierarquias, taxonomias, categorizações, navegação e metadados. Sempre que organizamos um menu, o conteúdo ou estrutura de um site, estamos praticando Arquitetura da Informação.
+
+# Refêrencia Arquitetura da Informação
+
+Conteúdo produzido a partir do post de Pedro Dias, ue reuniu as principais características da AI.
+
+Site: www.pedrodias.net

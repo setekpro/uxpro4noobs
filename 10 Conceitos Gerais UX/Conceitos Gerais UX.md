@@ -10,11 +10,10 @@ Organização em qualquer área de trabalho é fundamental para o sucesso, mante
 
 Como foi dito nos conteúdos anteriores a arquitetura da informação tem como papel principal estruturar as informações ao qual o usuário deve passar, podemos dividir elas em duas partes:
 
-Back-end: uma arquitetura da informação para sua equipe, para saber e compreender quais caminhos devem trabalhar e como o usuário vai sair do ponto A para o ponto B e tornar esse caminho possível.
+* **Back-end:** uma arquitetura da informação para sua equipe, para saber e compreender quais caminhos devem trabalhar e como o usuário vai sair do ponto A para o ponto B e tornar esse caminho possível.
 
-Front-end: é a arquitetura aplicada para o usuário de maneira imperceptível, direcionar-lo para o caminho que procura.
-
-serve também para monitorar e analisar cada etapa compreendo como o usuário se comporta.
+* **Front-end:** é a arquitetura aplicada para o usuário de maneira imperceptível, direcionar-lo para o caminho que procura.
+Serve também para monitorar e analisar cada etapa compreendo como o usuário se comporta.
 
 # Design Visual
 

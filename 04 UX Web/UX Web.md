@@ -7,7 +7,8 @@ Agora que você aprendeu como funciona os elementos da UX é necessário compree
 Hoje os sites possuem funções primordiais para todo tipo de serviço, entre lojas on-line até blog informativos, os sites hoje são uma fonte insaciável de conteúdo para todos os usuários e desse princípio que eu irei explicar como a UX pode ser fundamental para o sucesso de seu website.
 
 A UX em um website tem como grande função proporcionar uma agradável experiência a consumir o conteúdo. Deve de maneira atrelada ao UI (User Interface)
-proporcionar um ambiente intuitivo e isso começa na arquitetura da informação. 
+proporcionar um ambiente intuitivo e isso começa na arquitetura da informação.
+ 
 # Arquittura da informaça
 Arquitetura da informação é um fluxo de informações ao qual o usuário terá acesso conforme vai acessando o site. Uma boa arquitetura impede que usuários fiquem perdidos ou confusos em meio a sua navegação e por isso é importante construir o mapa de seu website. Nesse mapa deve conter toda trajetórias que o usuário percorrerá.
 

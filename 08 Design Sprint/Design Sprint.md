@@ -2,7 +2,7 @@
 
 Sprint Design é uma metodologia que reune cinco fases com restrições de tempo utilizando o design thinking, tem como objetivo reduzir riscos ao introduzir um novo produto ou serviço ao mercado.
 
- Vivemos na era da tecnologia ao qual a informação tem que ser acessível em instante e as atualizações constantes e no mundo dos negócios não poderia ser diferente. O método Sprint foi criada pela Google para ser ágil, prática e colaborativa podendo criar soluções em curto espaço de tempo.
+Vivemos na era da tecnologia ao qual a informação tem que ser acessível em instante e as atualizações constantes e no mundo dos negócios não poderia ser diferente. O método Sprint foi criada pela Google para ser ágil, prática e colaborativa podendo criar soluções em curto espaço de tempo.
 
 Segue abaixo as 5 fases co modelo Design Sprint: 
 
@@ -36,3 +36,9 @@ Por fim, a equipe se reúne para discutir o retorno dos usuários e analisar se 
 A limitação de tempo do método Design Sprint parece contraditória, já que o propósito é criar algo definitivo. Por outro lado, essa restrição também é capaz de motivar mais a equipe em razão da energia e do movimento exigidos para que o trabalho seja concluído. 
 
 É uma ferramenta dinâmica, inovadora e que dispensa burocracias. A sua chance de provar algo novo com economia de tempo.
+
+# Referência Design Sprint
+
+Algumas referências do conteúdo foi feito a partir de um post feito pelo blog revendakwg.
+
+site: blog.revendakwg.com.br
