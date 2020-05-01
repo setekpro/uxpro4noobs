@@ -27,7 +27,7 @@ Produzido com a colaboração de integrantes da **He4rt Developers**, esse tutor
 3. [Elementos UX](/03%20Elementos%20UX/Elementos%20UX.md)
 4. [UX Web](/04%20UX%20Web/UX%20Web.md)
 5. [UX Business](/05%20UX%20Business/UX%20Business.md)
-6. [Arquitetura da Informação](/06%20Arquitetura%20da%20Informção/Arquitetura%20da%20Informção.md)
+6. [Arquitetura da Informação](/06%20Arquitetura%20da%20Informação/Arquitetura%20da%20Informação.md)
 7. [Wireframe](/07%20Wireframe/Wireframe.md)
 8. [Design Sprint](/08%20Design%20Sprint/Design%20Sprint.md)
 9. [Design Thinking](/09%20Design%20Thinking/Design%20Thinking.md)
