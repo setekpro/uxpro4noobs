@@ -17,3 +17,5 @@ Se em algum momento os usuários deixaram de utilizar ou estão acessando bem me
 # Lucro
 
 A parte vital de qualquer negócio é o dinheiro portanto acompanhar as métricas de lucros e prejuízos dá a possibilidade de ter uma visão ampla de como está o projeto se é um momento bom para investir ou reduzir gastos, ter acesso a esses dados reduz a probabilidade de uma falecia precoce.
+
+[Próximo capítulo](../15%20Sites%20valiosos%20para%20UX/Sites%20valiosos%20para%20UX.md)

@@ -32,3 +32,5 @@ Um MVP – Minimum Viable Product é uma bela dica do que se pode fazer nesse 
 # Implementar a solução
 
 Após testes com respostas positivas acerca de seu produto, ele já está pronto para ser lançado “aos leões”. É importante entender que o processo de desenvolvimento do produto é contínuo e incremental, ou seja, sua ideia irá ser melhorada permanente através um processo de copartipação entre todos os seus stakeholders (clientes, fornecedores, colaboradores internos, etc.).
+
+[Próximo capítulo](../10%20Conceitos%20Gerais%20UX/Conceitos%20Gerais%20UX.md)

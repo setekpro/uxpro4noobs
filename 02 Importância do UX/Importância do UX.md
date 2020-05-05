@@ -8,3 +8,5 @@ Podemos imaginar a UX como um cliente dentro de uma loja: esse cliente quer algo
 com tamanha euforia ele compartilha sua experiência positiva com amigos incentivando que comprem para que sinta as mesmas emoções. 
 
 Desse modo a UX começou com uma apresentação bonita e agradável mas que também fosse útil e solucionasse os problemas do usuário. Devemos pensar desta maneira para atender as necessidades dos futuros consumidores.
+
+[Próximo capítulo](../03%20Elementos%20UX/Elementos%20UX.md)

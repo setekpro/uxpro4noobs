@@ -42,3 +42,5 @@ A limitação de tempo do método Design Sprint parece contraditória, já que o
 Algumas referências do conteúdo foi feito a partir de um post feito pelo blog revendakwg.
 
 site: blog.revendakwg.com.br
+
+[Próximo capítulo](../09%20Design%20Thinking/Design%20Thinking.md)

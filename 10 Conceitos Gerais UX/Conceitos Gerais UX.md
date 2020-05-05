@@ -26,3 +26,5 @@ Com fluxos intensos de informações é necessário que a usabilidade do usuári
 # Entrega do produto 
 
 Quando pensamos na entrega do produto o que vem primeiro na mente é que o trabalho foi finalizado, para o design de UX o trabalho é continuo e principalmente com o produto em mãos pelo usuário. Precipitar, entender, analisar e corrigir são etapas que tendem a continuar mesmo depois de finalizado, isso se deve pelo motivo de que problemas sempre irão ocorrer portanto é indispensável atenção pós produção.
+
+[Próximo capítulo](../11%20Teste%20AB/Testes%20A_B.md)

@@ -20,3 +20,5 @@ Mac
 Sketch foi criado em 2010 e vencedor do Apple Design Awards em 2012, é conhecido por suas funcionalidades e simplicidade. Uma ferramenta poderosa na mãos de bons designer UX/UI.
 
 Acessível apenas para usuários de MacOS é uma ótima ferramenta paga que pode proporcionar o campo ideal para suas ideias!
+
+[Próximo capítulo](../14%20Métricas%20de%20UX/Métricas%20de%20UX.md)

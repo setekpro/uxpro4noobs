@@ -29,3 +29,5 @@ Será colocado a prova os dois testes de maneira simultaneamente, alguns irão u
 Ao fim dos testes podemos utilizar os dados pra ver como o usuários do teste A e do teste B interagiram com as mudanças e colocar em prática no protótipo final as bem sucedidas e retirar as que não foram aceitas pelo usuário.
 
 A conclusão final é que pequenas mudanças podem gerar grandes resultados.
+
+[Próximo capítulo](../12%20UX%20Designer/UX%20Designer.md)
