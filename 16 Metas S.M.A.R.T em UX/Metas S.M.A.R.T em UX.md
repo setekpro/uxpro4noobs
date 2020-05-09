@@ -59,3 +59,5 @@ Toda meta precisa de um tempo para que seja realizada portanto definir um tempo 
 A loja estabeleceu 4 meses para ser alcançado a meta de 30 carros vendidos.
 
 Quando se define um tempo estimula o planejamento e agrega na qualidade da entrega, se o prazo para a realização de uma meta é curto consequentemente os resultados serão poucos, por isso definir um tempo é essencial para que a meta seja concluída.
+
+[Próximo capítulo](../17%20Bônus%20UX/Bônus%20UX.md)

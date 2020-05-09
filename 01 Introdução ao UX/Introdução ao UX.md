@@ -9,3 +9,5 @@ Sua principal função é compreender como um usuário se comporta utilizando se
 _“Entender a jornada ou a experiência de usabilidade do usuário, visitante ou cliente é o que faz a diferença entre uma marca irrelevante e outra de sucesso.”_
 
 **A experiência do usuário determinará todo o processo que vem após a UX, se você falha na UX você falha em todo o processo e as chances de tudo dar errado são inevitáveis.**
+
+[Próximo capítulo](../02%20Importância%20do%20UX/Importância%20do%20UX.md)

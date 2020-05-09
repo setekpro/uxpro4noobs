@@ -11,7 +11,7 @@ Free e pago
 
 Site completo para aprender Marketing Digital com diversos conteúdos gratuitos que possibilitam o estudo.
 
-O principal do MLabs é sua ferramenta de gerenciador de redes sociais, nela você possui todas as funções necessárias para ter tudo sobre controle.
+O principal foco do MLabs é sua ferramenta de gerenciador de redes sociais, nela você possui todas as funções necessárias para ter tudo sobre controle.
 
 www.mlabs.com.br
 

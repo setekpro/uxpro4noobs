@@ -32,3 +32,5 @@ A escolha das formas, ilustrações, tipografia e paleta de cores irão compor o
 A parte visível possui sua parcela de importância tanto quanto os demais plano, isso decorre pela importância do primeiro contato, quanto mais bonito e bem apresentável for o produto mais rápido irá adquirir adeptos, uma boa apresentação corresponde as principais experiências do usuário.
 
 Nesse módulo eu expliquei como funciona o modelo de Garrett e a sua importância no processo de criação. Vale ressaltar que esse modelo não se aplica somente a grandes empresas ou a produtos, é possível a utilização dele em qualquer serviço independente da situação ou condições.
+
+[Próximo capítulo](../04%20UX%20Web/UX%20Web.md)

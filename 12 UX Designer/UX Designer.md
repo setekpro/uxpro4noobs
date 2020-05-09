@@ -23,3 +23,5 @@ Quanto se trabalha com UX é comum que muitos dos problemas apareçam de forma r
 Um bom designer sempre está atualizado nas tendências do mercado portanto é indispensável o conhecimento contínuo. Quanto mais souber sobre o assunto mais fácil achará as melhores medidas e soluços para determinado problema.
 
 Uma mente atualizada agrega muito valor a qualquer projeto.
+
+[Próximo capítulo](../13%20Softwares%20UX_UI/Softwares%20UX_UI.md)

@@ -14,3 +14,5 @@ proporcionar um ambiente intuitivo e isso começa na arquitetura da informação
 Arquitetura da informação é um fluxo de informações ao qual o usuário terá acesso conforme vai acessando o site. Uma boa arquitetura impede que usuários fiquem perdidos ou confusos em meio a sua navegação e por isso é importante construir o mapa de seu website. Nesse mapa deve conter toda trajetórias que o usuário percorrerá.
 
 **A atenção deve ser grande quando o assunto é design, um site responsivo, limpo e intuitivo proporciona uma ótima primeira impressão. Cerca de 60% dos usuários consomem ou adquirem produtos/serviços a partir do primeiro contato, alguns benefícios que um bom design pode proporcionar são: consistência, seriedade, competência e qualidade, tudo que um usuário precisa.**
+
+[Próximo capítulo](../05%20UX%20Business/UX%20Business.md)
