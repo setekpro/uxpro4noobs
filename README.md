@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="">
-    <img src="https://i.imgur.com/LIPvNAl.png" alt="Logo" width="500" height="400">
+  <a href="https://heartdevs.com">
+    <img src="https://i.imgur.com/gQNRPaj.png" width="100%" alt="Logo da He4rtDevs">
   </a>
 
   <h3 align="center">UX4Noobs desenvolvido pela He4rt Developers</h3>
