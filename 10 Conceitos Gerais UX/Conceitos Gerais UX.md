@@ -6,7 +6,7 @@ O universo de User Experience (UX) é bastante amplo podendo ser até mais que o
 
 Organização em qualquer área de trabalho é fundamental para o sucesso, manter as coisas nos lugares e principalmente as ideias é primordial para não perder tempo e diminui os riscos de erros.
 
-# Arquitetura da informação 
+# Arquitetura da informação
 
 Como foi dito nos conteúdos anteriores a arquitetura da informação tem como papel principal estruturar as informações ao qual o usuário deve passar, podemos dividir elas em duas partes:
 
@@ -19,11 +19,11 @@ Serve também para monitorar e analisar cada etapa compreendo como o usuário se
 
 A parte visual é primordial para o sucesso do produto ou serviço isso ocorre porque geralmente os que não seguem um padrão bonito, geralmente é rejeitado. Existem muitos conceitos de esteticamente agradável. Isso vêm de experiências de interfaces e contexto de uso que cada usuário possui. Quanto ao design visual, estamos falando de aspectos de tipografia, ilustrações, layout e até de espaços em branco. 94% das primeiras impressões positivas de um site ou um app está relacionado com a estética visualmente agradável. Seu usuário pode até não ver todas as interações ou nuances que você estiver trabalhado mas com certeza o visual será fator determinante do seu uso.
 
-# Usabilidade 
+# Usabilidade
 
 Com fluxos intensos de informações é necessário que a usabilidade do usuário seja extremamente agradável, um produto ou serviço que possui uma usabilidade ruim ou decadente tende a ter perdas de clientes ou a insatisfação de muitos, por isso é importante antes de implementar qualquer funcionalidades ou soluços testar se a usabilidade favorece e atende os requisitos do usuário.
 
-# Entrega do produto 
+# Entrega do produto
 
 Quando pensamos na entrega do produto o que vem primeiro na mente é que o trabalho foi finalizado, para o design de UX o trabalho é continuo e principalmente com o produto em mãos pelo usuário. Precipitar, entender, analisar e corrigir são etapas que tendem a continuar mesmo depois de finalizado, isso se deve pelo motivo de que problemas sempre irão ocorrer portanto é indispensável atenção pós produção.
 

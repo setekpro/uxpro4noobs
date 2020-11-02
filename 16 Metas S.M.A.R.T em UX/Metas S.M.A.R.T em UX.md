@@ -10,10 +10,10 @@ Pra realizar qualquer meta é necessário ter o máximo de clareza sobre o que s
 
 Se o objetivo de uma loja de carros é vender 30 carros no mês de março deve ser específico como espera atingir essa meta por exemplo:
 
-* Criar anúncios 
+* Criar anúncios
 * Convidar pessoas a irem a loja
 * Intensificar na conversão de cliente
-* Descontos e parcelas acessíveis 
+* Descontos e parcelas acessíveis
 
 Observe que em todo momento foi específico em quais medidas serão tomadas com objetivo de vender 30 carros.
 
@@ -41,12 +41,12 @@ Sobre o exemplo dos carros é necessário responder as seguintes perguntas:
 * A localização da loja favorece a venda dos carros?
 * Os vendedores vão conseguir?
 * Temos veículos suficientes?
-* Vai der possível bancar os anúncios?
+* Vai ser possível bancar os anúncios?
 * Já vendemos uma quantidade grande de veículos?
 
 Se as respostas forem não pra todas é preciso retomar ao ponto inicial e fazer novas metas que se adequem a realidade da empresa.
 
-# Relevant (Relevante) 
+# Relevant (Relevante)
 
 Para que uma meta seja concluída e os esforços sobre ela sejam altos precisa ser relevante ao negócios.
 

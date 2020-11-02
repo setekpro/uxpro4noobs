@@ -2,7 +2,7 @@
 
 Quando pensamos no usuário precisamos que ele seja o centro de todo o projeto, por isso reuni 3 formas de tornar a UX do usuário valiosa em seu website.
 
-# Site memorável 
+# Site memorável
 
 Sites memoráveis são aqueles que o usuário procura com base em suas necessidades, um grande exemplo é o Wikipedia que diariamente recebe milhares de usuários procurando por seus serviços.
 

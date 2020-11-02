@@ -4,7 +4,7 @@ Na era da tecnologia é natural que exista a corrida pelos resultados, forçando
 
 Diferente dos métodos anteriores Design Thinking é uma abordagem e não uma metrologia como muitos pensam, não existe passos pré definidos ou moldes aplicados que transcende aos problemas.
 
-É uma abordagem que busca a solução de problemas de forma coletiva e colaborativa, em uma perspectiva de empatia máxima,  as pessoas são colocadas no centro de desenvolvimento do produto – não somente o consumidor final, mas todos os envolvidos na ideia (trabalhos em equipes multidisciplinares são comuns nesse conceito). 
+É uma abordagem que busca a solução de problemas de forma coletiva e colaborativa, em uma perspectiva de empatia máxima,  as pessoas são colocadas no centro de desenvolvimento do produto – não somente o consumidor final, mas todos os envolvidos na ideia (trabalhos em equipes multidisciplinares são comuns nesse conceito).
 
 O processo consiste em tentar mapear e mesclar a experiência cultural, a visão de mundo e os processos inseridos na vida dos indivíduos, no intuito de obter uma visão mais completa na solução de problemas e, dessa forma, melhor identificar as barreiras e gerar alternativas viáveis para transpô-las.
 
@@ -28,9 +28,8 @@ O design thinking começa a tomar corpo nessa etapa. Aqui, iremos desenvolver o 
 
 Um MVP – Minimum Viable Product é uma bela dica do que se pode fazer nesse item. Para quem não sabe, MVP (muito usado em startups) é a versão mais simples de um produto, que pode ser lançada em período de testes, para verificar, sem grandes gastos, se sua ideia realmente atinge as necessidades do seu consumidor final.
 
-
 # Implementar a solução
 
-Após testes com respostas positivas acerca de seu produto, ele já está pronto para ser lançado “aos leões”. É importante entender que o processo de desenvolvimento do produto é contínuo e incremental, ou seja, sua ideia irá ser melhorada permanente através um processo de copartipação entre todos os seus stakeholders (clientes, fornecedores, colaboradores internos, etc.).
+Após testes com respostas positivas acerca de seu produto, ele já está pronto para ser lançado “aos leões”. É importante entender que o processo de desenvolvimento do produto é contínuo e incremental, ou seja, sua ideia irá ser melhorada permanente através um processo de coparticipação entre todos os seus stakeholders (clientes, fornecedores, colaboradores internos, etc.).
 
 [Próximo capítulo](../10%20Conceitos%20Gerais%20UX/Conceitos%20Gerais%20UX.md)

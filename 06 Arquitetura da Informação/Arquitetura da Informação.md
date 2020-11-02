@@ -1,12 +1,12 @@
-# Arquitetura da informação 
+# Arquitetura da informação
 
-É o conceito e a prática de organizar e estruturar todas as informações do seu website, utilizamos a AI para definir quais passos o usuário ao entrar no site vai percorrer. 
+É o conceito e a prática de organizar e estruturar todas as informações do seu website, utilizamos a AI para definir quais passos o usuário ao entrar no site vai percorrer.
 
-A sua principal função é garantir que o usuário vai sair do ponto A para o ponto B com total clareza de como chegou ali, serve também para monitorar e analisar cada etapa compreendo como o usuário se comporta.
+A sua principal função é garantir que o usuário vai sair do ponto A para o ponto B com total clareza de como chegou ali, serve também para monitorar e analisar cada etapa compreendendo como o usuário se comporta.
 
-# Componentes da Arquitetura da informação 
+# Componentes da Arquitetura da informação
 
-Para compreender uma estrutura da AI reuni abaixo o modelo de Lou Rosenfeld e Peter Morville que cita os principais componentes da Arquitetura da Informação:
+Para compreender uma estrutura da AI reuni abaixo o modelo de Louis Rosenfeld e Peter Morville que cita os principais componentes da Arquitetura da Informação:
 
 * Organização Esquemática e Estruturas: Como classificar e estruturar informação — São as categorias em que colocamos informações, tais como nomes de autor e títulos ou tamanho de sapato, tecido e cor;
 
@@ -19,7 +19,6 @@ Para compreender uma estrutura da AI reuni abaixo o modelo de Lou Rosenfeld e Pe
 # Biblioteconomia
 
 Biblioteconomia é a metodologia responsável por sistemas organizacionais de informações. Esse método se resume em reunir um acervo de informações catalogar, categorizar e localizar recursos. Podendo ser encontrado em grandes empresas, bibliotecas, laboratórios e entre outros, a sua função é disponibilizar as informações que o usuário procura.
-
 
 # Psicologia Cognitiva
 

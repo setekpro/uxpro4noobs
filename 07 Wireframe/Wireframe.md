@@ -4,7 +4,7 @@ Wireframe é um protótipo visual de um site ou aplicativo, que possibilita uma 
 
 A sua estrutura não possui aspectos atrativos ou decorativos, proporcionando compreender como a estrutura se comporta em todo o processo, o interessante é a a possibilidade de ser criado em papel ou em aplicativos.
 
-É recomendado sua utilização em projetos grandes ao qual trabalha mais que um designer e desenvolvedor, principalmente quando necessário ter noção de como comporta as ideias
+É recomendado sua utilização em projetos grandes ao qual trabalha mais que um designer e desenvolvedor, principalmente quando necessário ter noção de como comporta as ideias.
 
 Se você decida rabiscar algumas coisas no papel ou trabalhar com algum software, ainda não descarte um ou outro método. Alguns designers fazem esboços no papel e depois os passam para software específicos; outros vão direto para o software; outros ainda ficam somente no “wireframe de papel”. Tenha em mente que, caso se depare com algum “entrave criativo”, mudar os formatos com que se trabalha pode fazer maravilhas para sua criatividade!
 
