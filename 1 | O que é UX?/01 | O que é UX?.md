@@ -21,8 +21,4 @@ O valor desse case de estudo foi reaplicado do início ao fim, desde o contato i
 
 **No próximo capítulo vamos entender a origem da UX** e como esse termo agregou valor a tantos serviços e produtos ao redor do mundo.
 
-
-
 😉 Bons estudos!
-
-
