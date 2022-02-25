@@ -5,7 +5,7 @@
     <img src="https://i.imgur.com/gQNRPaj.png" width="100%" alt="Logo da He4rtDevs">
   </a>
 
-  <h3 align="center">UX4Noobs desenvolvido pela He4rt Developers</h3>
+  <h3 align="center">UXPRO4noobs desenvolvido pela He4rt Developers</h3>
 
   <p align="center">'
     <br />
@@ -18,7 +18,16 @@
 
 ## Sobre o Projeto
 
-Produzido com a colaboração de integrantes da **He4rt Developers**, esse tutorial tem como objetivo principal apresentar e ensinar o básico do **UX Design**, de uma maneira completa e acessível para todos.
+**Dedicado a todos os membros da He4rt Developers,**
+
+Aprenda e pratique UX (User Experience) com um guia completo desde a teoria, mercado de trabalho até a mão na massa. Você poderá vivenciar definitivamente como trabalham designers de experiência do usuário.
+
+Eu me chamo Felipe “7K” Gabriel e serei seu instrutor nessa jornada extraordinária pelo mundo da Experiência do Usuário. Sou designer a mais de 4 anos e nesse curto período da minha carreira tive a oportunidade de aprender muito mais do que os cursos podem ensinar. 
+
+
+Nesse repositório você encontrará um acervo completo e gratuito de diversas estratégias, métodos, estudos, analises e ferramentas de UX.
+
+>💡”As pessoas não sabem o que querem, até mostrarmos a elas.” - Steve Jobs
 
 ## Roadmap
 
@@ -40,16 +49,16 @@ Produzido com a colaboração de integrantes da **He4rt Developers**, esse tutor
 16. [Metas S.M.A.R.T em UX](/16%20Metas%20S.M.A.R.T%20em%20UX/Metas%20S.M.A.R.T%20em%20UX.md)
 17. [Bônus UX](/17%20Bônus%20UX/Bônus%20UX.md)
 
-## Conhecimento Necessário para contribuir
+## Requisitos
 
-- UX
+- Não há pré-requisitos.
 
 <!-- CONTRIBUTING -->
 
 ## Como Contribuir
 
 Contribuições fazem com que a comunidade open source seja um lugar incrível para aprender, inspirar e criar. Todas contribuições
-são **extremamente apreciadas**
+são **extremamente apreciadas.**
 
 1. Realize um Fork do projeto
 2. Crie um branch com a nova feature (`git checkout -b feature/featureBraba`)
@@ -57,6 +66,6 @@ são **extremamente apreciadas**
 4. Realize o Push no Branch (`git push origin feature/featureBraba`)
 5. Abra um Pull Request
 
-## Colaboradores
+## Autores
 
-Felipe Gabriel - Design UX/UI e Marketing Digital [@FelipeG7K](https://twitter.com/FelipeG7K) - felipegx7k@gmail.com
+**Felipe “7K” Gabriel** - _Designer UX/UI e Administrador da He4rt Developers._ [Redes sociais](https://linktr.ee/setekpro)
