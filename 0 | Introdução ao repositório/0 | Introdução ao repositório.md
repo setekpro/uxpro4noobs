@@ -16,6 +16,5 @@ Eu me chamo Felipe “7K” Gabriel e serei seu instrutor nessa jornada extraord
 
 **Esse repositório está sendo dedicado a He4rt Developers e a todos os programadores que juntos criaram a maior comunidade open source do Brasil.**
 
-👋 Até o próximo capítulo,
-Felipe "7K" Gabriel
+👋 Até o próximo capítulo.
 
