@@ -9,7 +9,7 @@ Hoje os sites possuem funções primordiais para todo tipo de serviço, entre lo
 A UX em um website tem como grande função proporcionar uma agradável experiência a consumir o conteúdo. Deve de maneira atrelada ao UI (User Interface)
 proporcionar um ambiente intuitivo e isso começa na arquitetura da informação.
 
-# Arquittura da informação
+# Arquitetura da informação
 
 Arquitetura da informação é um fluxo de informações ao qual o usuário terá acesso conforme vai acessando o site. Uma boa arquitetura impede que usuários fiquem perdidos ou confusos em meio a sua navegação e por isso é importante construir o mapa de seu website. Nesse mapa deve conter toda trajetórias que o usuário percorrerá.
 
