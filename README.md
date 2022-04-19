@@ -31,8 +31,9 @@ Nesse repositório você encontrará um acervo completo e gratuito de diversas e
 
 ## Roadmap
 
-1. [Introdução ao UX](./01%20Introdução%20ao%20UX/Introdução%20ao%20UX.md)
-2. [Importância do UX](/02%20Importância%20do%20UX/Importância%20do%20UX.md)
+0. [Introdução ao Repositório](/0%20%7C%20Introdu%C3%A7%C3%A3o%20ao%20reposit%C3%B3rio/0%20%7C%20Introdu%C3%A7%C3%A3o%20ao%20reposit%C3%B3rio.md)
+1. [Introdução ao UX](/01%20%7C%20O%20que%20%C3%A9%20UX%3F/1%20%7C%20O%20que%20%C3%A9%20UX%3F.md)
+2. [Origem do UX](/02%20%7C%20Origem%20da%20UX/2%20%7C%20Origem%20da%20UX.md)
 3. [Elementos UX](/03%20Elementos%20UX/Elementos%20UX.md)
 4. [UX Web](/04%20UX%20Web/UX%20Web.md)
 5. [UX Business](/05%20UX%20Business/UX%20Business.md)
